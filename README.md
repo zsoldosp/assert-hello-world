@@ -1,7 +1,7 @@
 # Assert Hello World
 
 Ever wanted to try TDD in a new language, but was afraid of the yaks that
-had to be shavde to get to actually writing code? No more! This repo
+had to be shave to get to actually writing code? No more! This repo
 contains the assert hello world skeleton in various languages and testing
 tools, so you can get to coding fast!
 
